@@ -1,0 +1,11 @@
+/home/zero/zerolinux-refactored/target/release/deps/wayland_sys-36a0cb583a99dea8.d: /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/lib.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/common.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/client.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/server.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/egl.rs
+
+/home/zero/zerolinux-refactored/target/release/deps/libwayland_sys-36a0cb583a99dea8.rlib: /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/lib.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/common.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/client.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/server.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/egl.rs
+
+/home/zero/zerolinux-refactored/target/release/deps/libwayland_sys-36a0cb583a99dea8.rmeta: /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/lib.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/common.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/client.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/server.rs /home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/egl.rs
+
+/home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/lib.rs:
+/home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/common.rs:
+/home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/client.rs:
+/home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/server.rs:
+/home/zero/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.10/src/egl.rs:
